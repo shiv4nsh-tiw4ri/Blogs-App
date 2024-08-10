@@ -12,4 +12,4 @@ This project is a dynamic blogs website built using ReactJS. The homepage showca
   
 - **Hashtag Navigation:** Clicking on hashtags shows blogs associated with those tags.
   
-- **React Hooks:** Utilized hooks like ***useNavigate***, ***useContext***, and ***Routes*** for seamless navigation and state management.
+- **React Hooks:** Utilized hooks like ***useState***, ***useEffect***, ***useLocation***, ***useNavigate***, ***useContext***, and ***Routes*** for seamless navigation and state management.
